@@ -185,5 +185,11 @@
       "dialogue_count": 0,
       "speakers": []
     }
-  ]
+  ],
+  "voices": {
+    "generated_at": "20260910_235836",
+    "source_voice_repo": "phukyoo64-boop/18",
+    "char_map": {},
+    "lines": []
+  }
 }
