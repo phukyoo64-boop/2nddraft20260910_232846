@@ -1,0 +1,189 @@
+{
+  "timestamp": "20260910_232846",
+  "cast_names": [
+    "Amanda",
+    "Casey",
+    "Rachel",
+    "Zeke",
+    "Jaime",
+    "CHARLIE",
+    "LINCOLN1"
+  ],
+  "drafts": [
+    {
+      "title": "Echoes of Time",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely a writer or producer discussing their project ideas. The chunk involves Zeke, Jaime, and Charlie, with the dramatic conflict centered around time travel and its moral consequences. The setting is a chaotic workspace, possibly a film studio or production office, where Zeke is trying to manage multiple projects.",
+      "scene": "Zeke stands in a dimly lit, cluttered office filled with scattered scripts and coffee cups. Jaime, a silent figure, observes from the shadows. Charlie, dressed in a 1960s Hollywood style, appears out of nowhere, his eyes darting around with a mix of urgency and guilt.",
+      "dialogue": [
+        {
+          "character": "Zeke",
+          "line": "Charlie Matson goes back in time. Again?",
+          "cast_type": "canonical",
+          "raw_name": "Zeke",
+          "match_score": 1.0
+        },
+        {
+          "character": "CHARLIE",
+          "line": "I had to, Zeke. I had to stop the worst of the worst.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jaime",
+          "line": "But you messed up, didn't you?",
+          "cast_type": "canonical",
+          "raw_name": "Jaime",
+          "match_score": 1.0
+        },
+        {
+          "character": "Zeke",
+          "line": "Yeah, but what choice do we have? We can't let history repeat itself.",
+          "cast_type": "canonical",
+          "raw_name": "Zeke",
+          "match_score": 1.0
+        },
+        {
+          "character": "CHARLIE",
+          "line": "Exactly. But it's a mess. It's like a never-ending loop.",
+          "cast_type": "canonical",
+          "raw_name": "Charlie",
+          "match_score": 1.0
+        },
+        {
+          "character": "Jaime",
+          "line": "What about Amanda? Where is she?",
+          "cast_type": "canonical",
+          "raw_name": "Jaime",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequence",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "dialogue_count": 6,
+      "speakers": [
+        "CHARLIE",
+        "Jaime",
+        "Zeke"
+      ]
+    },
+    {
+      "title": "Echoes of Time",
+      "reasoning": "The 'I' in the source is an unnamed narrator who is discussing their time travel narrative ideas. The cast members involved are primarily Charlie and Zeke, as they both deal with time travel and its consequences. The dramatic conflict centers around the narrator's struggle to balance the historical impact and moral consequences of their time travel stories. The setting could be a dimly lit room where the narrator is planning out their narrative, with occasional references to historical events.",
+      "scene": "The room is dimly lit, with a large desk cluttered with notepads, pens, and a computer. The walls are adorned with various historical posters and a calendar showing the dates of significant events. The narrator is pacing back and forth, occasionally pausing to jot down notes.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "Charlie Matson goes back in time. Charlie Matson goes back in time.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.29
+        },
+        {
+          "character": "NARRATOR",
+          "line": "He's from the 1960s Hollywood. And he goes back in time and he arrests Adolf Hitler before he guesses the Jews.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.29
+        },
+        {
+          "character": "Zeke",
+          "line": "Zeke, we can't change history like that! What if we disrupt something crucial?",
+          "cast_type": "canonical",
+          "raw_name": "ZEKE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "And then the Jews in the future have nothing to whine about and they can't go whee, whee, whee, whee. So he screws up the timeline and he realizes his mistake and so he goes back and crucifies Jesus himself.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.29
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But I didn't mean to! It was a mistake!",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Whee, whee, whee. He has to make up for his sins. Charlie Matson. Hollywood. Adolf Hitler. Jesus Christ and the Holocaust. Oh my God, time travel, time travel, time travel.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.29
+        },
+        {
+          "character": "Zeke",
+          "line": "This is insane, Charlie. We can't keep doing this. We're only making things worse.",
+          "cast_type": "canonical",
+          "raw_name": "ZEKE",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Foreshadowing a time when he stops the Civil War. Oh my God. Can't we all just get along? North and south. Vacation in each other's territory. Get to know each other. But no, there must be a Civil War.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.29
+        },
+        {
+          "character": "CHARLIE",
+          "line": "But if we stop the Civil War, it will change everything! What will the future look like without it?",
+          "cast_type": "canonical",
+          "raw_name": "CHARLIE",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 2,
+      "source_file": "git-aichive/2025_10_12_14_52_57_transcription_1.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequence",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "holocaust",
+        "jesus",
+        "time"
+      ],
+      "dialogue_count": 9,
+      "speakers": [
+        "CHARLIE",
+        "NARRATOR",
+        "Zeke"
+      ]
+    },
+    {
+      "title": "untitled",
+      "reasoning": "",
+      "scene": "",
+      "dialogue": [],
+      "rank": 3,
+      "source_file": "git-aichive/2025_12_07_11_15_26_transcription.txt",
+      "topics_hit": [
+        "historical impact",
+        "moral consequence",
+        "time travel"
+      ],
+      "keywords_hit": [
+        "jesus",
+        "jews",
+        "time"
+      ],
+      "dialogue_count": 0,
+      "speakers": []
+    }
+  ]
+}
