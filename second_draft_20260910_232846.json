@@ -331,6 +331,10 @@
         "file": "draft2_line009_CHARLIE.mp3",
         "bytes": 76152
       }
-    ]
+    ],
+    "combined": {
+      "1": "draft1_combined.mp3",
+      "2": "draft2_combined.mp3"
+    }
   }
 }
