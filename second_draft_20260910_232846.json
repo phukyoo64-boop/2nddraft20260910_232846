@@ -187,9 +187,150 @@
     }
   ],
   "voices": {
-    "generated_at": "20260910_235836",
+    "generated_at": "20260911_000525",
     "source_voice_repo": "phukyoo64-boop/18",
-    "char_map": {},
-    "lines": []
+    "char_map": {
+      "NARRATOR": "Amanda",
+      "CHARLIE": "CHARLIE",
+      "Jaime": "Jaime",
+      "Zeke": "Zeke"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "Charlie Matson goes back in time. Again?",
+        "file": "draft1_line001_Zeke.mp3",
+        "bytes": 21768
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "I had to, Zeke. I had to stop the worst of the worst.",
+        "file": "draft1_line002_CHARLIE.mp3",
+        "bytes": 46392
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Jaime",
+        "voice_dir": "Jaime",
+        "line": "But you messed up, didn't you?",
+        "file": "draft1_line003_Jaime.mp3",
+        "bytes": 25800
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "Yeah, but what choice do we have? We can't let history repeat itself.",
+        "file": "draft1_line004_Zeke.mp3",
+        "bytes": 30840
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "Exactly. But it's a mess. It's like a never-ending loop.",
+        "file": "draft1_line005_CHARLIE.mp3",
+        "bytes": 46944
+      },
+      {
+        "draft": 1,
+        "n": 6,
+        "character": "Jaime",
+        "voice_dir": "Jaime",
+        "line": "What about Amanda? Where is she?",
+        "file": "draft1_line006_Jaime.mp3",
+        "bytes": 25080
+      },
+      {
+        "draft": 2,
+        "n": 1,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Charlie Matson goes back in time. Charlie Matson goes back in time.",
+        "file": "draft2_line001_NARRATOR.mp3",
+        "bytes": 32016
+      },
+      {
+        "draft": 2,
+        "n": 2,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "He's from the 1960s Hollywood. And he goes back in time and he arrests Adolf Hitler before he guesses the Jews.",
+        "file": "draft2_line002_NARRATOR.mp3",
+        "bytes": 50640
+      },
+      {
+        "draft": 2,
+        "n": 3,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "Zeke, we can't change history like that! What if we disrupt something crucial?",
+        "file": "draft2_line003_Zeke.mp3",
+        "bytes": 38160
+      },
+      {
+        "draft": 2,
+        "n": 4,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "And then the Jews in the future have nothing to whine about and they can't go whee, whee, whee, whee. So he screws up the timeline and he realizes his mistake and so he goes back and crucifies Jesus himself.",
+        "file": "draft2_line004_NARRATOR.mp3",
+        "bytes": 70728
+      },
+      {
+        "draft": 2,
+        "n": 5,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "But I didn't mean to! It was a mistake!",
+        "file": "draft2_line005_CHARLIE.mp3",
+        "bytes": 31152
+      },
+      {
+        "draft": 2,
+        "n": 6,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Whee, whee, whee. He has to make up for his sins. Charlie Matson. Hollywood. Adolf Hitler. Jesus Christ and the Holocaust. Oh my God, time travel, time travel, time travel.",
+        "file": "draft2_line006_NARRATOR.mp3",
+        "bytes": 77592
+      },
+      {
+        "draft": 2,
+        "n": 7,
+        "character": "Zeke",
+        "voice_dir": "Zeke",
+        "line": "This is insane, Charlie. We can't keep doing this. We're only making things worse.",
+        "file": "draft2_line007_Zeke.mp3",
+        "bytes": 33216
+      },
+      {
+        "draft": 2,
+        "n": 8,
+        "character": "NARRATOR",
+        "voice_dir": "Amanda",
+        "line": "Foreshadowing a time when he stops the Civil War. Oh my God. Can't we all just get along? North and south. Vacation in each other's territory. Get to know each other. But no, there must be a Civil War.",
+        "file": "draft2_line008_NARRATOR.mp3",
+        "bytes": 79704
+      },
+      {
+        "draft": 2,
+        "n": 9,
+        "character": "CHARLIE",
+        "voice_dir": "CHARLIE",
+        "line": "But if we stop the Civil War, it will change everything! What will the future look like without it?",
+        "file": "draft2_line009_CHARLIE.mp3",
+        "bytes": 76152
+      }
+    ]
   }
 }
